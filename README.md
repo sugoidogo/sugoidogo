@@ -14,7 +14,7 @@ If you need help with any of my software, join the discord server above or email
 
 [![Clippy](https://img.shields.io/badge/Clippy-OBS%20Browser%20Source-blue)](https://github.com/sugoidogo/clippy)
 
-[![TTS Avatar](https://img.shields.io/badge/TTSAvatar-OBS%20Browser%20Source-blue)](https://github.com/sugoidogo/TTSAvatar)
+[![SugoiTTS](https://img.shields.io/badge/TTSAvatar-OBS%20Browser%20Source-blue)](https://github.com/sugoidogo/SugoiTTS)
 ### Python
 [![OBSPython Installer](https://img.shields.io/badge/OBS%20Python%20Installer-Installer-blue)](https://github.com/sugoidogo/obs-python-installer)
 
