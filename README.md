@@ -11,9 +11,9 @@ If you need help with any of my software, join the discord server above or email
 #### OBS Browser Sources
 [![Twitch Subathon Timer](https://img.shields.io/badge/Twitch%20Subathon%20Timer-OBS%20Browser%20Source-blue)](https://github.com/sugoidogo/twitch-subathon-countdown)
 
-[![PNGTube](https://img.shields.io/badge/PNGTube-OBS%20Browser%20Source-blue)](https://github.com/sugoidogo/pngtube2)
-
 [![Clippy](https://img.shields.io/badge/Clippy-OBS%20Browser%20Source-blue)](https://github.com/sugoidogo/clippy)
+
+[![PNGTube](https://img.shields.io/badge/PNGTube-OBS%20Browser%20Source-blue)](https://github.com/sugoidogo/pngtube2)
 
 [![SugoiTTS](https://img.shields.io/badge/SugoiTTS-OBS%20Browser%20Source-blue)](https://github.com/sugoidogo/SugoiTTS)
 #### OBS/Python Scripts
