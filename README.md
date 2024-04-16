@@ -9,6 +9,8 @@ If you need help with any of my software, join the discord server above or email
 ## My Software
 ### For Streamers
 #### OBS Browser Sources
+[![Twitch Subathon Timer](https://img.shields.io/badge/Twitch%20Subathon%20Timer-OBS%20Browser%20Source-blue)](https://github.com/sugoidogo/twitch-subathon-countdown)
+
 [![PNGTube](https://img.shields.io/badge/PNGTube-OBS%20Browser%20Source-blue)](https://github.com/sugoidogo/pngtube2)
 
 [![Clippy](https://img.shields.io/badge/Clippy-OBS%20Browser%20Source-blue)](https://github.com/sugoidogo/clippy)
@@ -22,6 +24,11 @@ If you need help with any of my software, join the discord server above or email
 [![CMDTwitch](https://img.shields.io/badge/CMDTwitch-OBS%20Script-blue)](https://github.com/sugoidogo/cmdtwitch3)
 
 [![SkyTwitch](https://img.shields.io/badge/SkyTwitch-Tool%20Script-blue)](https://github.com/sugoidogo/skytwitch)
+### Lethal Company Mods
+#### [GirlBegone](https://github.com/sugoidogo/GirlBegone)
+#### [F_CKMaskeds](https://github.com/sugoidogo/F_CKMaskeds)
+### Steam Deck
+#### [Game Mode inside Desktop Mode](https://github.com/sugoidogo/gamescope-session-nested)
 ### For Android
 [![ADBInstaller](https://img.shields.io/badge/ADBInstaller-Installer-blue)](https://github.com/sugoidogo/adbi)
 
