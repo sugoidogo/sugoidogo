@@ -1,7 +1,8 @@
 # SugoiDogo
 [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)](https://www.twitch.tv/sugoidogo)
 [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/sugoidogo)
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/PbGT9tVWTC)
+
+[Get Support](support.sugoidogo.com)
 
 I'm a Twitch Streamer and FOSS Developer.
 ## Support
