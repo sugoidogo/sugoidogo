@@ -2,7 +2,7 @@
 [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)](https://www.twitch.tv/sugoidogo)
 [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/sugoidogo)
 
-[Get Support](support.sugoidogo.com)
+[Get Support](https://support.sugoidogo.com)
 
 I'm a Twitch Streamer and FOSS Developer.
 ## Support
