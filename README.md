@@ -30,7 +30,7 @@ If you need help with any of my software, join the discord server above or email
 #### [F_CKMaskeds](https://github.com/sugoidogo/F_CKMaskeds)
 ### Steam Deck
 #### [Game Mode inside Desktop Mode](https://github.com/sugoidogo/gamescope-session-nested)
-#### [Use Packman without breaking SteamOS](https://github.com/sugoidogo/steamos-rw)
+#### [Use Pacman without breaking SteamOS](https://github.com/sugoidogo/steamos-rw)
 ### For Android
 [![ADBInstaller](https://img.shields.io/badge/ADBInstaller-Installer-blue)](https://github.com/sugoidogo/adbi)
 
